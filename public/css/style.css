@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+  background-color: #000000; /* You can replace this color code with your desired color */
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  font-family: Arial, sans-serif; /* Set a default font family */
+  color: #f80000; /* Set a default text color */
+}
+
+/* Add additional styles as needed */
